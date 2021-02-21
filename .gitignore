@@ -1,0 +1,21 @@
+# terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+# vscode
+.vscode/*
+*.code-workspace
+.history/
+# linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+# downloads
+v0.3.6.tar.gz
